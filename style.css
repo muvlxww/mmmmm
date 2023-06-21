@@ -1,0 +1,11 @@
+ body{
+width: 1084px;
+height: 1000px;
+}
+.block1
+{
+    color:blue;
+    margin-left:auto;
+    width: 1084px;
+    height: 191px;
+} 
